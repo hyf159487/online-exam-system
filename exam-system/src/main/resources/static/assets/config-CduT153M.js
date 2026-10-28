@@ -1,0 +1,1 @@
+import{ad as a}from"./index-CxMTNHGE.js";function n(){return a.get("/api/config/list")}function e(t){return a.post("/api/config/batch-update",t)}function o(t){return a.get(`/api/config/value/${t}`)}export{n as a,e as b,o as g};

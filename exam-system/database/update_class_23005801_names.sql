@@ -1,0 +1,32 @@
+-- 更新 23005801 班 30 名学生姓名
+-- 学号 2300580101 ~ 2300580130 按顺序对应
+UPDATE sys_user SET real_name = '韩立'   WHERE username = '2300580101';
+UPDATE sys_user SET real_name = '南宫婉' WHERE username = '2300580102';
+UPDATE sys_user SET real_name = '墨居仁' WHERE username = '2300580103';
+UPDATE sys_user SET real_name = '厉飞雨' WHERE username = '2300580104';
+UPDATE sys_user SET real_name = '张铁'   WHERE username = '2300580105';
+UPDATE sys_user SET real_name = '墨彩环' WHERE username = '2300580106';
+UPDATE sys_user SET real_name = '李化元' WHERE username = '2300580107';
+UPDATE sys_user SET real_name = '红拂'   WHERE username = '2300580108';
+UPDATE sys_user SET real_name = '陈巧倩' WHERE username = '2300580109';
+UPDATE sys_user SET real_name = '菡云芝' WHERE username = '2300580110';
+UPDATE sys_user SET real_name = '董萱儿' WHERE username = '2300580111';
+UPDATE sys_user SET real_name = '令狐'   WHERE username = '2300580112';
+UPDATE sys_user SET real_name = '向之礼' WHERE username = '2300580113';
+UPDATE sys_user SET real_name = '王蝉'   WHERE username = '2300580114';
+UPDATE sys_user SET real_name = '温天仁' WHERE username = '2300580115';
+UPDATE sys_user SET real_name = '慕沛灵' WHERE username = '2300580116';
+UPDATE sys_user SET real_name = '玄骨'   WHERE username = '2300580117';
+UPDATE sys_user SET real_name = '宋蒙'   WHERE username = '2300580118';
+UPDATE sys_user SET real_name = '银月'   WHERE username = '2300580119';
+UPDATE sys_user SET real_name = '元瑶'   WHERE username = '2300580120';
+UPDATE sys_user SET real_name = '妍丽'   WHERE username = '2300580121';
+UPDATE sys_user SET real_name = '梅凝'   WHERE username = '2300580122';
+UPDATE sys_user SET real_name = '白浩芝' WHERE username = '2300580123';
+UPDATE sys_user SET real_name = '文思月' WHERE username = '2300580124';
+UPDATE sys_user SET real_name = '凌玉灵' WHERE username = '2300580125';
+UPDATE sys_user SET real_name = '啼魂'   WHERE username = '2300580126';
+UPDATE sys_user SET real_name = '万天明' WHERE username = '2300580127';
+UPDATE sys_user SET real_name = '青易子' WHERE username = '2300580128';
+UPDATE sys_user SET real_name = '柳玉'   WHERE username = '2300580129';
+UPDATE sys_user SET real_name = '宋蒙'   WHERE username = '2300580130';

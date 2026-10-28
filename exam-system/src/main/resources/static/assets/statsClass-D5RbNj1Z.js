@@ -1,0 +1,1 @@
+import{ad as t}from"./index-CxMTNHGE.js";function e(){return t.get("/api/stats/class/exam-list")}function i(s){return t.get("/api/stats/class/class-list",{params:{examId:s}})}function r(s){return t.post("/api/stats/class/data",s)}export{i as a,r as b,e as g};

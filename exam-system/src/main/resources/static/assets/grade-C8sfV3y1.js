@@ -1,0 +1,1 @@
+import{ad as t}from"./index-CxMTNHGE.js";function i(e){return t.get("/api/grade/page",{params:e})}function n(e){return t.get("/api/grade/stats",{params:e})}function g(e){return t.get("/api/grade/pending",{params:e})}function s(e){return t.get(`/api/grade/${e}/review`)}function u(e,a){return t.post(`/api/grade/${e}/review`,a)}export{n as a,g as b,s as c,i as g,u as s};

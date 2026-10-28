@@ -1,0 +1,1 @@
+import{ad as e}from"./index-CxMTNHGE.js";function r(){return e.get("/api/student/profile/get")}function n(t){return e.put("/api/student/profile/update",t)}function a(t){return e.put("/api/student/profile/updatePwd",t)}export{a,r as g,n as u};

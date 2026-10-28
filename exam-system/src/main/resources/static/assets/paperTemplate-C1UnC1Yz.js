@@ -1,0 +1,1 @@
+import{ad as t}from"./index-CxMTNHGE.js";function p(e){return t.get("/api/paper-template/list",{params:e})}function r(e){return t.get(`/api/paper-template/${e}`)}function n(e){return t.post("/api/paper-template",e)}function i(e){return t.put("/api/paper-template",e)}function l(e){return t.delete(`/api/paper-template/${e}`)}export{p as a,n as c,l as d,r as g,i as u};

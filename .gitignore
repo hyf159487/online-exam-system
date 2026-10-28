@@ -1,0 +1,7 @@
+exam-web/node_modules
+exam-web/dist
+exam-system/target
+.idea
+.vscode
+*.iml
+exam-system/uploads/

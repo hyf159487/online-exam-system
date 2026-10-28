@@ -1,0 +1,25 @@
+# 依赖
+node_modules/
+
+# 构建产物（Vercel 会在云端重新 build，不需要上传）
+dist/
+
+# 本地环境变量（含密钥，绝不上传）
+.env
+.env.local
+.env.*.local
+
+# 日志
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db

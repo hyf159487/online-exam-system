@@ -1,0 +1,1 @@
+import{g as r}from"./config-CduT153M.js";import{f as t}from"./index-CxMTNHGE.js";const e=t(null);let l=null;function o(){return e.value!==null?Promise.resolve(e.value):l||(l=r("default_page_size").then(u=>{const a=parseInt(u.data,10);return e.value=a>0?a:10,e.value}).catch(()=>(e.value=10,10)).finally(()=>{l=null}),l)}export{o as u};
